@@ -49,5 +49,4 @@ class Database:
             return f"{bal:.2f} USD"
             # return f"$ {bal:.2f}"
             # return int(acct["due"]) - int(acct["paid"])
-
         return None
